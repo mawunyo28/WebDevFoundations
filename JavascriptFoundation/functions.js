@@ -20,6 +20,7 @@ function lastLetter(text) {
   return text.at(-1);
 }
 
+
 console.log(multiply(add7(10), 19));
 console.log(capitalize("MAWUNYO"));
 console.log(lastLetter("Mawunyo"));
